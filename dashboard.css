@@ -1,0 +1,119 @@
+  .start{
+     
+    background-color: #033b42;
+    
+  }
+
+.parent{
+    background-color: #d3066d;
+    height: 100vh;
+    width: 200px;
+    box-shadow: 4px 5px 6px white;
+    
+    
+} 
+ .logo h1{
+
+    margin-left: 45px;
+    padding-top: 30px;
+    color: white;
+    
+    
+ }
+ .dashboard{
+    margin-left: 20px;
+    color: white;
+    padding-top: 25px;
+    
+ }
+ .dashboard i{
+    margin-right: 10px;
+
+ }
+ .cards{
+    margin-left: 20px;
+    padding-top: 25px;
+
+ }
+  .cards h2 a{
+   
+    text-decoration: none;
+    color: white;
+  }
+  .cards i{
+
+    margin-right: 10px;
+ }
+  .profile{
+
+    margin-left: 20px;
+    color: white;
+    padding-top: 25px;
+  }
+  .profile i{
+    margin-right: 20px;
+  }
+  .updates{
+    margin-left: 20px;
+    color: white;
+    padding-top: 25px;
+  }
+  .updates  i{
+    margin-right: 10px;
+  }
+   
+   .signup button{
+    margin-top: 20px;
+    margin-left: 30px;
+    padding: 10px;
+    border: 2px solid;
+    padding-left: 25px;
+    padding-right: 25px;
+   }
+   .login button{
+    margin-top: 30px;
+    margin-left: 30px;
+    padding: 10px;
+    border: 2px solid;
+    padding-left: 30px;
+    padding-right: 30px;
+   }
+   .home i{
+    margin-top: 60px;
+    margin-left: 50px;
+    font-size: 50px;
+   }
+   .home h3{
+    color: white;
+    margin-left: 20px;
+   }
+   .parent2{
+    display: flex;
+    justify-content: center;
+   }
+   .dashboard2{
+    margin-top: -739px;
+    margin-left: 201px;
+    background-color: rgb(150, 220, 248);
+    height: 70px;
+    width: 300px;
+    padding-left: 53px;
+    padding-bottom: 10px;
+    padding-right: 1092px;
+    box-shadow: 4px 5px 6px rgb(252, 250, 250);
+    
+   }  
+   .dashboard2 h1{
+
+    text-shadow: 2px 3px 4px #f50303;
+    box-shadow: 2px 3px 4px #414148;
+    color: white;
+   }
+    .dashboard2 h1:hover{
+      color: black;
+    }
+    .graph img{
+      margin-top: -650px;
+      margin-left: 210px; 
+      position:absolute;
+    } 
